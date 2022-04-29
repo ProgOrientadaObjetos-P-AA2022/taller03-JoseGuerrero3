@@ -16,7 +16,7 @@ public class Ejecutor {
         // Valores de entrada
         String numeroTelefono = "098321321";
         double minutos = 230;
-        double valorMinuto = 0.25;
+        double valorMinuto = 0.15;
         // uso de los métodos establecer para darle valores a los 
         // atributos del objeto.
         ft.establecerNumeroTelefono(numeroTelefono);
